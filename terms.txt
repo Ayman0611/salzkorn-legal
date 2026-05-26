@@ -1,0 +1,43 @@
+# Allgemeine Geschäftsbedingungen (AGB)
+
+Diese Allgemeinen Geschäftsbedingungen gelten für die Nutzung der mobilen App "Salzkorn" sowie aller damit verbundenen Dienste (zusammenfassend "App"), bereitgestellt von Ayman Angert ("Diensteanbieter").
+
+Durch das Herunterladen oder die Nutzung der App stimmen Sie diesen Bedingungen zu. Bitte lesen Sie diese sorgfältig durch.
+
+## 1. Nutzungsrechte
+Der Diensteanbieter gewährt Ihnen eine eingeschränkte, nicht exklusive, nicht übertragbare und widerrufliche Lizenz zur Installation und Nutzung der App für persönliche Zwecke. Es ist untersagt, die App zu kopieren, zu modifizieren, zu vertreiben, zurückzuentwickeln (Reverse Engineering) oder den Quellcode zu extrahieren, es sei denn, dies ist gesetzlich ausdrücklich gestattet. Sämtliche geistigen Eigentumsrechte verbleiben beim Diensteanbieter.
+
+## 2. Nutzergenerierte Inhalte (User-Generated Content)
+Die App ermöglicht es Ihnen, Inhalte (z.B. Rezepte, Fotos, Kommentare) zu erstellen und zu teilen. Sie verpflichten sich, keine Inhalte hochzuladen, die:
+* gegen geltendes Recht oder geistige Eigentumsrechte Dritter (Urheberrecht, Markenrecht) verstoßen.
+* beleidigend, bedrohlich, verleumderisch oder diskriminierend sind.
+* Spam, Phishing oder Malware enthalten.
+* die Privatsphäre anderer verletzen (z.B. Hochladen fremder personenbezogener Daten ohne Einwilligung).
+
+Durch das Einreichen von Inhalten gewähren Sie dem Diensteanbieter eine nicht-exklusive, weltweite, lizenzgebührenfreie Lizenz zur Nutzung, Vervielfältigung und Darstellung dieser Inhalte im Rahmen des App-Betriebs. Sie versichern, dass Sie die Rechte an den hochgeladenen Inhalten besitzen.
+
+## 3. Moderation & Meldung von Inhalten (DSA Compliance)
+Der Diensteanbieter behält sich das Recht vor, Inhalte, die gegen diese AGB oder geltendes Recht verstoßen, zu entfernen oder den Zugang von Nutzern zu sperren. 
+Wenn Sie illegale Inhalte oder Verstöße melden möchten, kontaktieren Sie uns unter **ayman.angert03@gmail.com**. Bei Sperrungen oder Löschungen erhalten betroffene Nutzer eine Begründung und haben das Recht auf Beschwerde im Rahmen der Bestimmungen des Digital Services Act (DSA).
+
+## 4. Verfügbarkeit und Künstliche Intelligenz (KI)
+Die App nutzt Technologien der Künstlichen Intelligenz (KI), um bestimmte Funktionen bereitzustellen (z.B. Rezept-Generierung). Die Ausgaben der KI werden automatisiert erstellt und dienen lediglich als Vorschläge.
+Wir bemühen uns um eine hohe Verfügbarkeit der App, können jedoch nicht garantieren, dass diese jederzeit fehler- und unterbrechungsfrei funktioniert. Für die Nutzung einiger Funktionen ist eine aktive Internetverbindung erforderlich. Anfallende Datenkosten Ihres Mobilfunkanbieters tragen Sie selbst.
+
+## 5. Haftungsbeschränkung
+Der Diensteanbieter haftet unbeschränkt bei Vorsatz, grober Fahrlässigkeit sowie bei Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit. Bei leicht fahrlässiger Verletzung wesentlicher Vertragspflichten ist die Haftung auf den vorhersehbaren, vertragstypischen Schaden begrenzt. Eine weitergehende Haftung ist ausgeschlossen. 
+Wir übernehmen keine Gewähr für die Richtigkeit der von Nutzern oder der KI generierten Inhalte (insbesondere bei Allergien oder Unverträglichkeiten im Zusammenhang mit Rezepten).
+
+## 6. Beendigung
+Der Diensteanbieter kann Ihren Zugang zur App bei schweren oder wiederholten Verstößen gegen diese AGB aussetzen oder beenden. Sie können die Nutzung der App jederzeit beenden, indem Sie Ihren Account löschen und die App deinstallieren.
+
+## 7. Änderungen der AGB
+Wir behalten uns das Recht vor, diese AGB bei Bedarf zu aktualisieren. Wesentliche Änderungen werden Ihnen innerhalb der App oder per E-Mail mitgeteilt. Wenn Sie die App nach Inkrafttreten der Änderungen weiter nutzen, gilt dies als Zustimmung zu den neuen AGB.
+
+## 8. Anwendbares Recht
+Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts. Zwingende Verbraucherschutzbestimmungen des Staates, in dem Sie Ihren gewöhnlichen Aufenthalt haben, bleiben hiervon unberührt.
+
+**Kontakt:**
+Sollten Sie Fragen zu diesen AGB haben, kontaktieren Sie uns per E-Mail unter: **ayman.angert03@gmail.com**.
+
+**Stand:** 26. Mai 2026
